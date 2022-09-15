@@ -1,2 +1,3 @@
 # JavaStudy
-studying java language
+studying Algorithm and Design pattern via java
+
